@@ -1,0 +1,18 @@
+---
+
+title: "Bootstrap"
+output: html_document
+date: "2024-08-27"
+---
+
+## Bootstrap
+
+```{r}
+require(MASS)
+
+Freal <- MASS::mvrnorm(n = 10000000, mu = c(1,1), Sigma = matrix(c(1,0.5,0.5,1), ncol = 2))
+print(cor(Freal[,1], Freal[,2]))
+
+n <- 100
+y <- sample(1:length(Freal), size = n, replace = T)
+```
