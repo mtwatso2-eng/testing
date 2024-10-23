@@ -1,0 +1,18 @@
+{
+  "Folder": "00131_GenotypingMedicagoPlatformAlfalfa",
+  "DOI": "https://doi.org/10.46265/genresj.EMOR6509",
+  "Publication_link": "https://www.genresj.org/index.php/grj/article/view/genresj.EMOR6509",
+  "Title": "A public mid-density genotyping platform for alfalfa (Medicago sativa L.)",
+  "Abstract": "Small public breeding programmes have many barriers to adopting technology, particularly creating and using genetic marker panels for genomic-based decisions in selection. Here we report the creation of a DArTag panel of 3,000 loci distributed across the alfalfa (Medicago sativa L.) genome for use in molecular breeding and genomic insight. The creation of this marker panel brings cost-effective and rapid genotyping capabilities to alfalfa breeding programmes. The open access provided by this platform will allow genetic data sets generated on the marker panel to be compared and joined across projects, institutions and countries. This genotyping resource has the power to make routine genotyping a reality for any breeder of alfalfa.",
+  "Scientific_Name": "",
+  "Common_Name": "Alfalfa",
+  "Sharing_Link": "https://datadryad.org/stash/landing/show?id=doi%3A10.5061%2Fdryad.pc866t1vd",
+  "Requires_Authorization": false,
+  "Phenotype": false,
+  "Map": false,
+  "Pedigree": false,
+  "N_Geno": 0,
+  "N_markers": 0,
+  "Download_Instructions": "NA",
+  "Tags": ""
+}
